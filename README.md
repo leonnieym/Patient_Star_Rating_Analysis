@@ -17,7 +17,7 @@ ii There are a large amount of data on CMC web and I hope to use big data tools 
 iii It will be very useful if patient can refer to the analysis before they randomly choose a care center  
 iii It also equally important for hospitals to learn the patient feedback and improve their care system.
 
-### III. Does the analysis tells anything about why some region hospitals are rated well and others not?  
+### III. Does the analysis tell anything about why some region hospitals are rated well and others not?  
 i Combining the national census data I hope to understand if the population size is correlating with the rating  
 ii Crowed state like California, NY, NJ, FL, etc showed the worst ratings.  
 iii By finishing up the project, I hope to develop a hospital recommendation system for patients. 
