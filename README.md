@@ -6,5 +6,5 @@ CMC (The Centers for Medicare & Medicaid Services) updates hospital compare data
 You can use Hospital Compare to find hospitals and compare the quality of their care. The information on Hospital Compare: Helps you make decisions about where you get your health care. Encourages hospitals to improve the quality of care they provide.
 
 The information on Hospital Compare:
-	Helps you make decisions about where you get your health care
-	Encourages hospitals to improve the quality of care they provide 
+1> Helps you make decisions about where you get your health care
+2> Encourages hospitals to improve the quality of care they provide 
