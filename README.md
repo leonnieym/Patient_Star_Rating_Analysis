@@ -18,6 +18,7 @@ iii It also equally important for hospitals to learn the patient feedback and im
 
 ### III. Does the analysis tells anything about why some region hospitals are rated well and others not?  
 i Combining the national census data I hope to understand if the population size is correlating with the rating  
-ii What kind of recommendations should we give to government and hospitals?
+ii Crowed state like California, NY, NJ, FL, etc showed the worst ratings.  
+iii By finishing up the project, I hope to develop a hospital recommendation system for patients. 
 
 The project is just started...
