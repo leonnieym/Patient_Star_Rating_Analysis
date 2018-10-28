@@ -1,2 +1,3 @@
 # Patient_Star_Rating_Analysis
-CMC published the patient star rating data for hospitals in the US. 
+CMC (The Centers for Medicare & Medicaid Services) updates hospital compare datasets a few times each year.
+Hospital Compare data archive: https://data.medicare.gov/data/archives/hospital-compare
